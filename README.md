@@ -1,1 +1,0 @@
-# SMPTEGenerator_azphalt
