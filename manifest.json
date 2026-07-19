@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.smpte",
+  "id": "com.hereliesaz.azphalt.smpte",
   "name": "SMPTE Color Bars",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "smpte",
+        "id": "com.hereliesaz.azphalt.smpte",
         "name": "SMPTE Color Bars",
         "entry": "generator"
       }
